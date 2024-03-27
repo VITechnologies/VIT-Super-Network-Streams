@@ -13,6 +13,8 @@ Designed with a focus on simplicity and efficiency, Super Network Streams are pe
 
 Install the package from VIPM
 
+[![Image](https://www.vipm.io/package/vi_technologies_lib_super_network_streams/badge.svg?metric=installs)](https://www.vipm.io/package/vi_technologies_lib_super_network_streams/) [![Image](https://www.vipm.io/package/vi_technologies_lib_super_network_streams/badge.svg?metric=stars)](https://www.vipm.io/package/vi_technologies_lib_super_network_streams/)
+
 In the examples you'll find a simple example of a simple reader and a writer Super Network Stream
 
 ![Simple Reader Example](/docs/ReaderExample.png)
