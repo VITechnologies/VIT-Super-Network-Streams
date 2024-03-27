@@ -1,9 +1,11 @@
 # Super Network Streams
-VIT Super Network Streams is a class encapsulating and extending Network Stream functionality.
+The Super Network Streams is a class (background process) that encapsulates LabVIEW Network Stream functionality to:
+- Send/Receive LabVIEW Objects
+- Autorecovery if the remote endpoint gets destoyed or has a connection timeout
+- Background stream reading and publish the received data via user events
+- Allows communication between two applications on the same machine (localhost)
 
-VIT Super Network Streams tackle the critical challenge of maintaining continuous data flow even when network disruptions occur. Thanks to the integrated connection watchdog, any disruption such as an endpoint reset is automatically detected and corrected, ensuring that your data remains intact and reliable.
-
-These streams serve as one-way, buffered communication paths, allowing for high-throughput data streaming with the resilience of lossless transmission. This automated reliability frees developers from the complexities of network protocols, allowing them to devote their energy to application development.
+The class has a read or write mode, so the same class can be used on both endpoints.
 
 Designed with a focus on simplicity and efficiency, Super Network Streams are perfect for developers who need dependable inter-process communication without the hassle of manual reconnection logic.
 
@@ -35,8 +37,8 @@ Workflow:
 
 ## Credits
 
-VIT Super Network Stream is an open source project maintained by [VI Technologies](http://vi-tech.nl).
+VIT Super Network Streams is an open source project maintained by [VI Technologies](http://vi-tech.nl).
 
 ## License
 
-VIT Super Network Stream is distributed under the open source three clause BSD license providing everyone right to use and distribute both souce code and compiled versions of the VIT Super Network Stream. See [LICENSE](https://github.com/VITechnologies/VIT-Super-Network-Streams/blob/main/LICENSE) file for details.
+VIT Super Network Stream is distributed under the open source BSD 3-Clause License providing everyone right to use and distribute both souce code and compiled versions of the VIT Super Network Streams. See [LICENSE](https://github.com/VITechnologies/VIT-Super-Network-Streams/blob/main/LICENSE) file for details.
