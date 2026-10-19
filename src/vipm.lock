@@ -3,37 +3,29 @@
 
 version = 2
 revision = 0
-updated-at = "2026-10-19T10:32:49.495072300Z"
+updated-at = "2026-10-19T10:49:42.631397600Z"
 requires-labview = "2024"
 labview-bitness = 64
 
 [[nipm.feed]]
-name = "ni-488-2-2025 Q4-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/25.8/released"
+name = "ni-488-2-2024 Q3-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/24.5/released"
 
 [[nipm.feed]]
-name = "ni-aspt-labview-support-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-asp-toolkit/26.3/released"
+name = "ni-daqmx-2024 Q4-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-d/ni-daqmx/24.8/released"
 
 [[nipm.feed]]
-name = "ni-cvi-runtime-engine-26-3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-c/ni-cvi-runtime-engine/26.3/released"
+name = "ni-daqmx-2024 Q4-released-critical"
+uri = "https://download.ni.com/support/nipkg/products/ni-d/ni-daqmx/24.8/released-critical"
 
 [[nipm.feed]]
-name = "ni-daqmx-2026 Q1-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-d/ni-daqmx/26.0/released"
+name = "ni-diadem-2024-en-2024 Q4-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-d/ni-diadem-2024-en/24.8/released"
 
 [[nipm.feed]]
-name = "ni-dct-labview-support-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-database-toolkit/26.3/released"
-
-[[nipm.feed]]
-name = "ni-dfdt-labview-support-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-dfd-toolkit/26.3/released"
-
-[[nipm.feed]]
-name = "ni-distributed-system-manager-2026-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-d/ni-distributed-system-manager-2026/26.3/released"
+name = "ni-flexlogger-2024 Q3-1-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/24.6/released"
 
 [[nipm.feed]]
 name = "ni-labview-2024-core-en-2024 Q3-released"
@@ -44,80 +36,40 @@ name = "ni-labview-2024-core-en-2024 Q3-released-critical"
 uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024/24.3/released-critical"
 
 [[nipm.feed]]
-name = "ni-labview-2026-core-en-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2026/26.3/released"
+name = "ni-labview-2024-runtime-engine-2024 Q3-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024-runtime-engine/24.3/released"
 
 [[nipm.feed]]
-name = "ni-labview-2026-core-x86-en-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2026-x86/26.3/released"
+name = "ni-labview-2024-runtime-engine-2024 Q3-released-critical"
+uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024-runtime-engine/24.3/released-critical"
 
 [[nipm.feed]]
-name = "ni-labview-2026-linx-toolkit-x86-2026 Q1-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2026-linx-toolkit-x86/26.1/released"
+name = "ni-labview-2024-runtime-engine-x86-2024 Q3-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024-runtime-engine-x86/24.3/released"
 
 [[nipm.feed]]
-name = "ni-labview-2026-runtime-engine-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2026-runtime-engine/26.3/released"
+name = "ni-labview-2024-runtime-engine-x86-2024 Q3-released-critical"
+uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024-runtime-engine-x86/24.3/released-critical"
 
 [[nipm.feed]]
-name = "ni-labview-2026-runtime-engine-x86-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2026-runtime-engine-x86/26.3/released"
+name = "ni-labview-command-line-interface-x86-2024 Q3-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-command-line-interface-x86/24.3/released"
 
 [[nipm.feed]]
-name = "ni-labview-command-line-interface-x86-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-command-line-interface-x86/26.3/released"
+name = "ni-pxiplatformservices-2024 Q3-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-p/ni-pxiplatformservices/24.5/released"
 
 [[nipm.feed]]
-name = "ni-labview-dett-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-desktop-execution-trace-toolkit/26.3/released"
+name = "ni-update-service-2024 Q4-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-u/ni-update-service/24.8/released"
 
 [[nipm.feed]]
-name = "ni-license-manager-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-license-manager/26.5/released"
+name = "ni-visa-2024 Q3-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-v/ni-visa/24.5/released"
 
 [[nipm.feed]]
-name = "ni-package-builder-2026 Q1-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-p/ni-package-builder/26.0/released"
-
-[[nipm.feed]]
-name = "ni-pxiplatformservices-2026 Q1-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-p/ni-pxiplatformservices/26.0/released"
-
-[[nipm.feed]]
-name = "ni-rgt-labview-support-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-report-generation-toolkit/26.3/released"
-
-[[nipm.feed]]
-name = "ni-sv-toolkit-2026 Q1-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-s/ni-sv-toolkit/26.0/released"
-
-[[nipm.feed]]
-name = "ni-sync-2026 Q1-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-s/ni-sync/26.0/released"
-
-[[nipm.feed]]
-name = "ni-teststand-2026-2026 Q1-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-t/ni-teststand-2026/26.0/released"
-
-[[nipm.feed]]
-name = "ni-update-service-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-u/ni-update-service/26.5/released"
-
-[[nipm.feed]]
-name = "ni-utf-labview-support-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-unit-test-framework-toolkit/26.3/released"
-
-[[nipm.feed]]
-name = "ni-viawin-labview-support-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-vi-analyzer-toolkit/26.3/released"
-
-[[nipm.feed]]
-name = "ni-vipm-2026 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-v/ni-vipm/26.3/released"
-
-[[nipm.feed]]
-name = "ni-visa-2026 Q1-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-v/ni-visa/26.0/released"
+name = "ni-xnet-2024 Q3-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-x/ni-xnet/24.5/released"
 
 [[nipm.feed]]
 name = "nipm"
@@ -125,110 +77,32 @@ uri = "https://download.ni.com/support/nipkg/products/ni-package-manager/release
 
 [[package]]
 name = "ni-euladepot"
-version = "26.5.0.49245-0+f93"
+version = "24.8.0.49248-0+f96"
 manager = "nipm"
 
 [[package.source]]
-feed = "ni-aspt-labview-support-2026 Q3-released"
+feed = "ni-daqmx-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
+checksum = "md5:356e553fe1d8f9db2d27088cb670ae6f"
+uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/24.8.0/24.8.0.49248-0+f96/ni-euladepot_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-cvi-runtime-engine-26-3-released"
+feed = "ni-daqmx-2024 Q4-released-critical"
 architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
+checksum = "md5:356e553fe1d8f9db2d27088cb670ae6f"
+uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/24.8.0/24.8.0.49248-0+f96/ni-euladepot_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-distributed-system-manager-2026-2026 Q3-released"
+feed = "ni-diadem-2024-en-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
+checksum = "md5:356e553fe1d8f9db2d27088cb670ae6f"
+uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/24.8.0/24.8.0.49248-0+f96/ni-euladepot_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-labview-2026-runtime-engine-x86-2026 Q3-released"
+feed = "ni-update-service-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-runtime-engine-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-core-x86-en-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-core-en-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-command-line-interface-x86-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-dct-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-dett-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-dfdt-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-rgt-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-utf-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-viawin-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-license-manager-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-update-service-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-vipm-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e710"
-uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
+checksum = "md5:356e553fe1d8f9db2d27088cb670ae6f"
+uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/24.8.0/24.8.0.49248-0+f96/ni-euladepot_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package]]
 name = "ni-labview-2024-coreother"
@@ -275,7 +149,7 @@ uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2024-vilib/24.
 
 [[package]]
 name = "ni-mdfsupport"
-version = "26.5.0.49246-0+f94"
+version = "24.8.0.49248-0+f96"
 manager = "nipm"
 dependencies = [
     "ni-euladepot",
@@ -283,214 +157,58 @@ dependencies = [
 ]
 
 [[package.source]]
-feed = "ni-aspt-labview-support-2026 Q3-released"
+feed = "ni-daqmx-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
+checksum = "md5:19f5098c5ae27dad7f904d3dd471bd3a"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/24.8.0/24.8.0.49248-0+f96/ni-mdfsupport_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-cvi-runtime-engine-26-3-released"
+feed = "ni-daqmx-2024 Q4-released-critical"
 architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
+checksum = "md5:19f5098c5ae27dad7f904d3dd471bd3a"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/24.8.0/24.8.0.49248-0+f96/ni-mdfsupport_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-distributed-system-manager-2026-2026 Q3-released"
+feed = "ni-diadem-2024-en-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
+checksum = "md5:19f5098c5ae27dad7f904d3dd471bd3a"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/24.8.0/24.8.0.49248-0+f96/ni-mdfsupport_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-labview-2026-runtime-engine-x86-2026 Q3-released"
+feed = "ni-update-service-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-runtime-engine-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-core-x86-en-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-core-en-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-command-line-interface-x86-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-dct-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-dett-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-dfdt-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-rgt-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-utf-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-viawin-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-license-manager-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-update-service-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-vipm-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:871cd4f7966b35b9c4755cfd44a705e51c9be3380e4e47d3b224e96e1f15e289"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/26.5.0/26.5.0.49246-0+f94/ni-mdfsupport_26.5.0.49246-0+f94_windows_x64.nipkg"
+checksum = "md5:19f5098c5ae27dad7f904d3dd471bd3a"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-mdfsupport/24.8.0/24.8.0.49248-0+f96/ni-mdfsupport_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package]]
 name = "ni-metauninstaller"
-version = "26.5.0.49246-0+f94"
+version = "24.8.0.49248-0+f96"
 manager = "nipm"
 dependencies = ["ni-securityupdate-kb67l8lcqw-killbits"]
 
 [[package.source]]
-feed = "ni-aspt-labview-support-2026 Q3-released"
+feed = "ni-daqmx-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
+checksum = "md5:437518b3ecccd57b8a2ccb9d0be90c66"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/24.8.0/24.8.0.49248-0+f96/ni-metauninstaller_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-cvi-runtime-engine-26-3-released"
+feed = "ni-daqmx-2024 Q4-released-critical"
 architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
+checksum = "md5:437518b3ecccd57b8a2ccb9d0be90c66"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/24.8.0/24.8.0.49248-0+f96/ni-metauninstaller_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-distributed-system-manager-2026-2026 Q3-released"
+feed = "ni-diadem-2024-en-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
+checksum = "md5:437518b3ecccd57b8a2ccb9d0be90c66"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/24.8.0/24.8.0.49248-0+f96/ni-metauninstaller_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-labview-2026-runtime-engine-x86-2026 Q3-released"
+feed = "ni-update-service-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-runtime-engine-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-core-x86-en-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-core-en-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-command-line-interface-x86-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-dct-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-dett-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-dfdt-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-rgt-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-utf-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-viawin-labview-support-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-license-manager-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-update-service-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-vipm-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:51865b3bb884abcf3ecfd276855ed4f6e994e3d8552f16b93ea2de16cbdb1d4e"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/26.5.0/26.5.0.49246-0+f94/ni-metauninstaller_26.5.0.49246-0+f94_windows_x64.nipkg"
+checksum = "md5:437518b3ecccd57b8a2ccb9d0be90c66"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-metauninstaller/24.8.0/24.8.0.49248-0+f96/ni-metauninstaller_24.8.0.49248-0+f96_windows_x64.nipkg"
 
 [[package]]
 name = "ni-msiproperties"
@@ -505,7 +223,7 @@ uri = "https://download.ni.com/support/nipkg/products/ni-package-manager/release
 
 [[package]]
 name = "ni-msvcrt-2015"
-version = "26.5.0.49220-0+f68"
+version = "24.5.0.49169-0+f17"
 manager = "nipm"
 dependencies = [
     "ni-mdfsupport",
@@ -514,264 +232,120 @@ dependencies = [
 ]
 
 [[package.source]]
-feed = "ni-aspt-labview-support-2026 Q3-released"
+feed = "ni-488-2-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-cvi-runtime-engine-26-3-released"
+feed = "ni-daqmx-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-distributed-system-manager-2026-2026 Q3-released"
+feed = "ni-daqmx-2024 Q4-released-critical"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-labview-2026-runtime-engine-x86-2026 Q3-released"
+feed = "ni-diadem-2024-en-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-labview-2026-runtime-engine-2026 Q3-released"
+feed = "ni-flexlogger-2024 Q3-1-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-labview-2026-core-x86-en-2026 Q3-released"
+feed = "ni-labview-2024-runtime-engine-x86-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-labview-2026-core-en-2026 Q3-released"
+feed = "ni-labview-2024-runtime-engine-x86-2024 Q3-released-critical"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-labview-command-line-interface-x86-2026 Q3-released"
+feed = "ni-labview-2024-runtime-engine-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-dct-labview-support-2026 Q3-released"
+feed = "ni-labview-2024-runtime-engine-2024 Q3-released-critical"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-labview-dett-2026 Q3-released"
+feed = "ni-labview-2024-core-en-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-dfdt-labview-support-2026 Q3-released"
+feed = "ni-labview-2024-core-en-2024 Q3-released-critical"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-rgt-labview-support-2026 Q3-released"
+feed = "ni-labview-command-line-interface-x86-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-utf-labview-support-2026 Q3-released"
+feed = "ni-pxiplatformservices-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-viawin-labview-support-2026 Q3-released"
+feed = "ni-update-service-2024 Q4-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-license-manager-2026 Q3-released"
+feed = "ni-visa-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package.source]]
-feed = "ni-update-service-2026 Q3-released"
+feed = "ni-xnet-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-vipm-2026 Q3-released"
-architecture = "windows_x64"
-checksum = "sha256:0b2f727dc54e1be7793ac4744407fd10b309f74a08ea547dc91358431b964c2a"
-uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/26.5.0/26.5.0.49220-0+f68/ni-msvcrt-2015_26.5.0.49220-0+f68_windows_x64.nipkg"
+checksum = "md5:c1654d03d15f74f940c512df7eb138eb"
+uri = "https://download.ni.com/support/nipkg/pool/ni-m/ni-msvcrt-2015/24.5.0/24.5.0.49169-0+f17/ni-msvcrt-2015_24.5.0.49169-0+f17_windows_x64.nipkg"
 
 [[package]]
 name = "ni-securityupdate-kb67l8lcqw-killbits"
-version = "2.1.0.49154-0+f2"
+version = "2.1.0.49153-0+f1"
 manager = "nipm"
 
 [[package.source]]
-feed = "ni-488-2-2025 Q4-released"
+feed = "ni-daqmx-2024 Q4-released"
 architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
+checksum = "md5:a15a6d4d3d2594796333b3aac2dfb1d7"
+uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49153-0+f1/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49153-0+f1_windows_all.nipkg"
 
 [[package.source]]
-feed = "ni-cvi-runtime-engine-26-3-released"
+feed = "ni-daqmx-2024 Q4-released-critical"
 architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
+checksum = "md5:a15a6d4d3d2594796333b3aac2dfb1d7"
+uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49153-0+f1/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49153-0+f1_windows_all.nipkg"
 
 [[package.source]]
-feed = "ni-daqmx-2026 Q1-released"
+feed = "ni-diadem-2024-en-2024 Q4-released"
 architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-distributed-system-manager-2026-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-linx-toolkit-x86-2026 Q1-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-runtime-engine-x86-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-runtime-engine-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-core-x86-en-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2026-core-en-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-aspt-labview-support-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-labview-command-line-interface-x86-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-dct-labview-support-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-labview-dett-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-dfdt-labview-support-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-rgt-labview-support-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-utf-labview-support-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-viawin-labview-support-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-license-manager-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-package-builder-2026 Q1-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-pxiplatformservices-2026 Q1-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-sv-toolkit-2026 Q1-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-sync-2026 Q1-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-teststand-2026-2026 Q1-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-update-service-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-vipm-2026 Q3-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package.source]]
-feed = "ni-visa-2026 Q1-released"
-architecture = "windows_all"
-checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
-uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
+checksum = "md5:a15a6d4d3d2594796333b3aac2dfb1d7"
+uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49153-0+f1/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49153-0+f1_windows_all.nipkg"
