@@ -14,7 +14,7 @@ repository = "https://github.com/svelderrainruiz/vit-super-network-streams"
 
 [build.package]
 type = "vipb"
-path = "src/vi_technologies_lib_super_network_streams.vipb"
+path = "vipb.vipb"
 
 [nipm.dependencies]
 ni-labview-2020-coreother = "20.1.0.49152-0+f0"
