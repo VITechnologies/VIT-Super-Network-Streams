@@ -3,8 +3,8 @@
 
 version = 2
 revision = 0
-updated-at = "2026-10-19T10:01:58.518975400Z"
-requires-labview = "2020"
+updated-at = "2026-10-19T10:32:49.495072300Z"
+requires-labview = "2024"
 labview-bitness = 64
 
 [[nipm.feed]]
@@ -36,8 +36,12 @@ name = "ni-distributed-system-manager-2026-2026 Q3-released"
 uri = "https://download.ni.com/support/nipkg/products/ni-d/ni-distributed-system-manager-2026/26.3/released"
 
 [[nipm.feed]]
-name = "ni-labview-2020-core-en-2020 SP1-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2020/20.1/released"
+name = "ni-labview-2024-core-en-2024 Q3-released"
+uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024/24.3/released"
+
+[[nipm.feed]]
+name = "ni-labview-2024-core-en-2024 Q3-released-critical"
+uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024/24.3/released-critical"
 
 [[nipm.feed]]
 name = "ni-labview-2026-core-en-2026 Q3-released"
@@ -227,8 +231,8 @@ checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e
 uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
 
 [[package]]
-name = "ni-labview-2020-coreother"
-version = "20.1.0.49152-0+f0"
+name = "ni-labview-2024-coreother"
+version = "24.3.6.49154-0+f2"
 manager = "nipm"
 dependencies = [
     "ni-mdfsupport",
@@ -237,14 +241,20 @@ dependencies = [
 ]
 
 [[package.source]]
-feed = "ni-labview-2020-core-en-2020 SP1-released"
+feed = "ni-labview-2024-core-en-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "md5:96eb6eccdf1918f5fbd93c95ecf5bff8"
-uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2020-coreother/20.1.0/20.1.0.49152-0+f0/ni-labview-2020-coreother_20.1.0.49152-0+f0_windows_x64.nipkg"
+checksum = "md5:9e7edf83c368a3e2aecb8b33a52c1e16"
+uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2024-coreother/24.3.6/24.3.6.49154-0+f2/ni-labview-2024-coreother_24.3.6.49154-0+f2_windows_x64.nipkg"
+
+[[package.source]]
+feed = "ni-labview-2024-core-en-2024 Q3-released-critical"
+architecture = "windows_x64"
+checksum = "md5:9e7edf83c368a3e2aecb8b33a52c1e16"
+uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2024-coreother/24.3.6/24.3.6.49154-0+f2/ni-labview-2024-coreother_24.3.6.49154-0+f2_windows_x64.nipkg"
 
 [[package]]
-name = "ni-labview-2020-vilib"
-version = "20.1.1.49154-0+f2"
+name = "ni-labview-2024-vilib"
+version = "24.3.6.49154-0+f2"
 manager = "nipm"
 dependencies = [
     "ni-mdfsupport",
@@ -252,10 +262,16 @@ dependencies = [
 ]
 
 [[package.source]]
-feed = "ni-labview-2020-core-en-2020 SP1-released"
+feed = "ni-labview-2024-core-en-2024 Q3-released"
 architecture = "windows_x64"
-checksum = "md5:aa2f825ea8afa2b5d771dc4d960e9b40"
-uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2020-vilib/20.1.1/20.1.1.49154-0+f2/ni-labview-2020-vilib_20.1.1.49154-0+f2_windows_x64.nipkg"
+checksum = "md5:daf13e209331a0f12b3ab00b3ef3dcae"
+uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2024-vilib/24.3.6/24.3.6.49154-0+f2/ni-labview-2024-vilib_24.3.6.49154-0+f2_windows_x64.nipkg"
+
+[[package.source]]
+feed = "ni-labview-2024-core-en-2024 Q3-released-critical"
+architecture = "windows_x64"
+checksum = "md5:daf13e209331a0f12b3ab00b3ef3dcae"
+uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2024-vilib/24.3.6/24.3.6.49154-0+f2/ni-labview-2024-vilib_24.3.6.49154-0+f2_windows_x64.nipkg"
 
 [[package]]
 name = "ni-mdfsupport"
