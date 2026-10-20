@@ -6,9 +6,10 @@ labview-bitness = "64"
 description = "Description Test"
 authors = ["Lab Team <lab@vi-tech.nl>"]
 license = "MIT"
-repository = "https://github.com/svelderrainruiz/vit-super-network-streams"
+repository = "https://github.com/vitechnologies/vit-super-network-streams"
 
 [dependencies]
+vi_technologies_lib_super_network_streams = "2.0.0.20"
 
 [dev-dependencies]
 

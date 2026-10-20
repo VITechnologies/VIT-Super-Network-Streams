@@ -1,0 +1,10 @@
+[project]
+name = "Examples"
+version = "0.1.0"
+labview-version = "2024"
+
+[nipm]
+
+[nipm.dependencies]
+ni-labview-2024-coreother = "24.3.6.49154-0+f2"
+ni-labview-2024-vilib = "24.3.6.49154-0+f2"
