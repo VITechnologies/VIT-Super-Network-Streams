@@ -3,9 +3,8 @@
 
 version = 2
 revision = 0
-updated-at = "2026-10-20T06:20:07.468241100Z"
-requires-labview = "2024"
-labview-bitness = 64
+updated-at = "2026-10-22T05:33:30.177004800Z"
+requires-labview = "2026"
 
 [[nipm.feed]]
 name = "ni-488-2-2025 Q4-released"
@@ -34,14 +33,6 @@ uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-dfd-toolki
 [[nipm.feed]]
 name = "ni-distributed-system-manager-2026-2026 Q3-released"
 uri = "https://download.ni.com/support/nipkg/products/ni-d/ni-distributed-system-manager-2026/26.3/released"
-
-[[nipm.feed]]
-name = "ni-labview-2024-core-en-2024 Q3-released"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024/24.3/released"
-
-[[nipm.feed]]
-name = "ni-labview-2024-core-en-2024 Q3-released-critical"
-uri = "https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024/24.3/released-critical"
 
 [[nipm.feed]]
 name = "ni-labview-2026-core-en-2026 Q3-released"
@@ -122,10 +113,6 @@ uri = "https://download.ni.com/support/nipkg/products/ni-v/ni-visa/26.0/released
 [[nipm.feed]]
 name = "nipm"
 uri = "https://download.ni.com/support/nipkg/products/ni-package-manager/released"
-
-[[vipm.repo]]
-name = "Local"
-uri = "Local"
 
 [[package]]
 name = "ni-euladepot"
@@ -235,8 +222,8 @@ checksum = "sha256:d1aa2d8d53102d50d1e944243cd40cfedda58162c10aba6b29c255be70f2e
 uri = "https://download.ni.com/support/nipkg/pool/ni-e/ni-euladepot/26.5.0/26.5.0.49245-0+f93/ni-euladepot_26.5.0.49245-0+f93_windows_x64.nipkg"
 
 [[package]]
-name = "ni-labview-2024-coreother"
-version = "24.3.6.49154-0+f2"
+name = "ni-labview-2026-coreother"
+version = "26.3.1.49171-0+f19"
 manager = "nipm"
 dependencies = [
     "ni-mdfsupport",
@@ -245,20 +232,14 @@ dependencies = [
 ]
 
 [[package.source]]
-feed = "ni-labview-2024-core-en-2024 Q3-released"
+feed = "ni-labview-2026-core-en-2026 Q3-released"
 architecture = "windows_x64"
-checksum = "md5:9e7edf83c368a3e2aecb8b33a52c1e16"
-uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2024-coreother/24.3.6/24.3.6.49154-0+f2/ni-labview-2024-coreother_24.3.6.49154-0+f2_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2024-core-en-2024 Q3-released-critical"
-architecture = "windows_x64"
-checksum = "md5:9e7edf83c368a3e2aecb8b33a52c1e16"
-uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2024-coreother/24.3.6/24.3.6.49154-0+f2/ni-labview-2024-coreother_24.3.6.49154-0+f2_windows_x64.nipkg"
+checksum = "sha256:d9663c4e705b5ca3420d2851a1e9628fd83b71a77516057883c11a18fb05ea64"
+uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2026-coreother/26.3.1/26.3.1.49171-0+f19/ni-labview-2026-coreother_26.3.1.49171-0+f19_windows_x64.nipkg"
 
 [[package]]
-name = "ni-labview-2024-vilib"
-version = "24.3.6.49154-0+f2"
+name = "ni-labview-2026-vilib"
+version = "26.3.1.49171-0+f19"
 manager = "nipm"
 dependencies = [
     "ni-mdfsupport",
@@ -266,16 +247,10 @@ dependencies = [
 ]
 
 [[package.source]]
-feed = "ni-labview-2024-core-en-2024 Q3-released"
+feed = "ni-labview-2026-core-en-2026 Q3-released"
 architecture = "windows_x64"
-checksum = "md5:daf13e209331a0f12b3ab00b3ef3dcae"
-uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2024-vilib/24.3.6/24.3.6.49154-0+f2/ni-labview-2024-vilib_24.3.6.49154-0+f2_windows_x64.nipkg"
-
-[[package.source]]
-feed = "ni-labview-2024-core-en-2024 Q3-released-critical"
-architecture = "windows_x64"
-checksum = "md5:daf13e209331a0f12b3ab00b3ef3dcae"
-uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2024-vilib/24.3.6/24.3.6.49154-0+f2/ni-labview-2024-vilib_24.3.6.49154-0+f2_windows_x64.nipkg"
+checksum = "sha256:0bb4916ca65814d99bce741f1b4fb8bf2e2cf9aa51b840221787a6f67d899416"
+uri = "https://download.ni.com/support/nipkg/pool/ni-l/ni-labview-2026-vilib/26.3.1/26.3.1.49171-0+f19/ni-labview-2026-vilib_26.3.1.49171-0+f19_windows_x64.nipkg"
 
 [[package]]
 name = "ni-mdfsupport"
@@ -779,13 +754,3 @@ feed = "ni-visa-2026 Q1-released"
 architecture = "windows_all"
 checksum = "sha256:8cbd0a420e8a39c27c31cf7e1f374969ac6a98b615374bef59ffd70767cf3333"
 uri = "https://download.ni.com/support/nipkg/pool/ni-s/ni-securityupdate-kb67l8lcqw-killbits/2.1.0/2.1.0.49154-0+f2/ni-securityupdate-kb67l8lcqw-killbits_2.1.0.49154-0+f2_windows_all.nipkg"
-
-[[package]]
-name = "vi_technologies_lib_super_network_streams"
-version = "2.0.0.20"
-manager = "vipm"
-resolution-source = "installed"
-
-[[package.source]]
-repo = "Local"
-checksum = "sha256:4774da94f4b4a4a1fe37c7e5ccdde828aec7cdddbdf1d374331b60876bf3d761"

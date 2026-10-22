@@ -1,22 +1,10 @@
 [project]
 name = "VIT-Super-Network-Streams"
-version = "2.1.0"
-labview-version = "2024"
-labview-bitness = "64"
-description = "Description Test"
-authors = ["Lab Team <lab@vi-tech.nl>"]
-license = "MIT"
-repository = "https://github.com/vitechnologies/vit-super-network-streams"
+version = "2.0.1"
+labview-version = "2026"
 
-[dependencies]
-vi_technologies_lib_super_network_streams = "2.0.0.20"
-
-[dev-dependencies]
-
-[build.package]
-type = "vipb"
-path = "vipb.vipb"
+[nipm]
 
 [nipm.dependencies]
-ni-labview-2024-coreother = "24.3.6.49154-0+f2"
-ni-labview-2024-vilib = "24.3.6.49154-0+f2"
+ni-labview-2026-coreother = "26.3.1.49171-0+f19"
+ni-labview-2026-vilib = "26.3.1.49171-0+f19"
