@@ -8,3 +8,7 @@ labview-version = "2026"
 [nipm.dependencies]
 ni-labview-2026-coreother = "26.3.1.49171-0+f19"
 ni-labview-2026-vilib = "26.3.1.49171-0+f19"
+
+[build.VIT-Super-Network-Streams]
+type = "vipb"
+path = "src/vipb.vipb"
